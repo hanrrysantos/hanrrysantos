@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Meu nome é Hanrry Santos, tenho 19 anos e sou natural do Pará. Concluí o ensino médio no Colégio Coleguium Rede de Ensino em Carajás. Atualmente, estou cursando Engenharia de Software na UEPA e sem dúvidas uma das minha paixões é a tecnologia. Você pode me conhecer melhor pelas redes sociais: [Instagram](https://www.instagram.com/hanrrysantoss/) ou [Linkedin](https://www.linkedin.com/in/hanrrysantos/). 
+Meu nome é Hanrry Santos, tenho 20 anos e sou natural do Pará. Concluí o ensino médio no Colégio Coleguium Rede de Ensino em Carajás. Atualmente, estou cursando Engenharia de Software na UEPA e sem dúvidas uma das minha paixões é a tecnologia. Você pode me conhecer melhor pelas redes sociais: [Instagram](https://www.instagram.com/hanrrysantoss/) ou [Linkedin](https://www.linkedin.com/in/hanrrysantos/). 
 
 ---
 
