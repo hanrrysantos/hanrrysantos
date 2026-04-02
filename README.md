@@ -43,7 +43,6 @@ Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construi
 
 <br/>
 
----
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
@@ -61,12 +60,6 @@ Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construi
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanrrysantos&theme=github_dark&area=true&hide_border=true&refresh=true" width="100%" alt="Gráfico de Atividade" />
-</div>
-
----
-
 ## 📌 Projetos em destaque
 
 <div align="center">
@@ -77,8 +70,6 @@ Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construi
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=Inventory-Manager&theme=tokyonight&hide_border=true" />
   </a>
 </div>
-
----
 
 <div align="center">
   <h2>📫 Onde me encontrar</h2>
