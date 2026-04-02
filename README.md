@@ -6,11 +6,9 @@
   <h1>Olá, eu sou o Hanrry Santos </h1>
   <h3>Desenvolvedor Backend | Java | Spring Boot </h3>
   
-## Sobre mim
+## SOBRE MIM
   
 Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construir APIs bem estruturadas, escaláveis e com boas práticas. Atualmente estou aprofundando meus conhecimentos em arquitetura de software e desenvolvimento de sistemas que resolvem problemas reais.
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hanrrysantos" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/hanrrysantoss/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hanrry.jsantos@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
