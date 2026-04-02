@@ -3,30 +3,19 @@
 </div>
 
 <div align="center">
-  <h1>Olá, eu sou o Hanrry Santos 👋</h1>
+  <h1>Olá, eu sou o Hanrry Santos </h1>
   <h3>Desenvolvedor Backend | Java | Spring Boot </h3>
   
-  ## 💡 Sobre mim
-
+## Sobre mim
+  
 Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construir APIs bem estruturadas, escaláveis e com boas práticas. Atualmente estou aprofundando meus conhecimentos em arquitetura de software e desenvolvimento de sistemas que resolvem problemas reais.
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hanrrysantos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/hanrrysantoss/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hanrry.jsantos@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-  <img src="https://komarev.com/ghpvc/?username=hanrrysantos&color=0077B5&style=for-the-badge&label=VISITAS" />
+  <a href="https://www.linkedin.com/in/hanrrysantos" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/hanrrysantoss/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hanrry.jsantos@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </div>
 
-
----
 
 ## 🛠️ Linguagens e Tecnologias
 
@@ -34,7 +23,7 @@ Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construi
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=java,spring" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate" height="45"/>
 
 **Banco de Dados**
 
@@ -42,7 +31,7 @@ Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construi
 
 **Infraestrutura & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,aws" height="45"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions" height="45"/>
 
 **Ferramentas**
 
@@ -60,13 +49,9 @@ Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construi
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
-<br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanrrysantos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<br/>
 
 <br/>
 
@@ -84,15 +69,6 @@ Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construi
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanrrysantos&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-
 ## 📌 Projetos em destaque
 
 <div align="center">
@@ -106,22 +82,16 @@ Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construi
 
 ---
 
-## 📬 Onde me encontrar
-
 <div align="center">
-
-| Plataforma | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/hanrrysantos](https://www.linkedin.com/in/hanrrysantos) |
-| 📸 Instagram | [@hanrrysantoss](https://www.instagram.com/hanrrysantoss/) |
-| 📧 Email | [hanrry.jsantos@gmail.com](mailto:hanrry.jsantos@gmail.com) |
-
+  <h2>📫 Onde me encontrar</h2>
+  
+<div align="center">
+  <a href="https://www.linkedin.com/in/hanrrysantos" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/hanrrysantoss/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hanrry.jsantos@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </div>
-
-<br/>
 
 ---
 
+<br/>
 <div align="center">
-  <i>⭐ Se algum projeto te ajudou, deixa uma estrela! Significa muito 😊</i>
+  <i>Sinta-se à vontade para explorar os repositórios. Se algum projeto for útil, considere deixar uma ⭐!</i>
 </div>
