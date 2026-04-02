@@ -1,39 +1,127 @@
-# 👨🏾‍💻 Hanrry Santos
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding gif"/>
+</div>
 
-**`Estudante de Engenharia de Software`**
+<div align="center">
+  <h1>Olá, eu sou o Hanrry Santos 👋</h1>
+  <h3>Desenvolvedor Backend | Java | Spring Boot </h3>
+  
+  ## 💡 Sobre mim
 
-Meu nome é Hanrry Santos, tenho 20 anos e sou natural do Pará. Concluí o ensino médio no Colégio Coleguium Rede de Ensino em Carajás. Atualmente, estou cursando Engenharia de Software na UEPA e sem dúvidas uma das minha paixões é a tecnologia. Você pode me conhecer melhor pelas redes sociais: [Instagram](https://www.instagram.com/hanrrysantoss/) ou [Linkedin](https://www.linkedin.com/in/hanrrysantos/). 
+Sou um desenvolvedor backend focado no ecossistema Java, apaixonado por construir APIs bem estruturadas, escaláveis e com boas práticas. Atualmente estou aprofundando meus conhecimentos em arquitetura de software e desenvolvimento de sistemas que resolvem problemas reais.
 
 ---
 
-### 💻 Linguagens e Tecnologias
+<div align="center">
+  <a href="https://www.linkedin.com/in/hanrrysantos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/hanrrysantoss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hanrry.jsantos@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+  <img src="https://komarev.com/ghpvc/?username=hanrrysantos&color=0077B5&style=for-the-badge&label=VISITAS" />
+</div>
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring" height="45"/>
+
+**Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" height="45"/>
+
+**Infraestrutura & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,aws" height="45"/>
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" height="45"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" height="45"/>
+
+</div>
+
 <br/>
+
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
 <br/>
 
-### 📊 Estatísticas
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanrrysantos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hanrrysantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrrysantos&theme=tokyonight&&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanrrysantos&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hanrrysantos&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanrrysantos&theme=github_dark&area=true&hide_border=true&refresh=true" width="100%" alt="Gráfico de Atividade" />
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanrrysantos&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+
+## 📌 Projetos em destaque
+
+<div align="center">
+  <a href="https://github.com/hanrrysantos/studytracker">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=studytracker&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/hanrrysantos/Inventory-Manager">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=Inventory-Manager&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 📬 Onde me encontrar
+
+<div align="center">
+
+| Plataforma | Link |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/hanrrysantos](https://www.linkedin.com/in/hanrrysantos) |
+| 📸 Instagram | [@hanrrysantoss](https://www.instagram.com/hanrrysantoss/) |
+| 📧 Email | [hanrry.jsantos@gmail.com](mailto:hanrry.jsantos@gmail.com) |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <i>⭐ Se algum projeto te ajudou, deixa uma estrela! Significa muito 😊</i>
+</div>
