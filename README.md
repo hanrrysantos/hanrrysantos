@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding gif"/>
-</div>
-
-<div align="center">
   <h1>Olá, eu sou o Hanrry Santos </h1>
   <h3>Desenvolvedor Backend | Java | Spring Boot </h3>
   
