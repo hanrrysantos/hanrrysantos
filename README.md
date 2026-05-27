@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/hanrrysantos" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/hanrrysantoss/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hanrry.jsantos@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </div>
 
----
-
 ## Sobre mim
 
 Sou desenvolvedor backend focado no ecossistema Java, com interesse em construção de APIs REST, microsserviços, autenticação, mensageria, bancos relacionais e boas práticas de arquitetura.
@@ -14,8 +12,6 @@ Sou desenvolvedor backend focado no ecossistema Java, com interesse em construç
 Atualmente venho desenvolvendo projetos próprios para aprofundar conceitos como Spring Boot, Spring Security, JWT, RabbitMQ, Docker, PostgreSQL, Flyway, CI/CD e deploy em cloud.
 
 Gosto de transformar ideias em sistemas funcionais, bem estruturados e próximos de cenários reais de mercado.
-
----
 
 ## Tecnologias
 
@@ -43,8 +39,6 @@ Gosto de transformar ideias em sistemas funcionais, bem estruturados e próximos
 
 </div>
 
----
-
 ## Projetos em destaque
 
 <div align="center">
@@ -66,8 +60,6 @@ Gosto de transformar ideias em sistemas funcionais, bem estruturados e próximos
   </a>
 </div>
 
----
-
 ## Estatísticas do GitHub
 
 <div align="center">
@@ -78,8 +70,6 @@ Gosto de transformar ideias em sistemas funcionais, bem estruturados e próximos
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanrrysantos&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hanrrysantos&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
----
 
 ## Contato
 
