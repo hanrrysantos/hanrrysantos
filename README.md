@@ -51,6 +51,10 @@ Gosto de transformar ideias em sistemas funcionais, bem estruturados e próximos
   <a href="https://github.com/hanrrysantos/e-commerce-microservicos">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=e-commerce-microsservicos&theme=tokyonight&hide_border=true" />
   </a>
+
+</div>
+
+<div align="center">
   <a href="https://github.com/hanrrysantos/Inventory-Manager">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=Inventory-Manager&theme=tokyonight&hide_border=true" />
   </a>
@@ -69,8 +73,6 @@ Gosto de transformar ideias em sistemas funcionais, bem estruturados e próximos
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanrrysantos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<br/>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanrrysantos&show_icons=true&theme=tokyonight&hide_border=true" />
