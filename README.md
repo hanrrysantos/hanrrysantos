@@ -42,7 +42,7 @@ Gosto de transformar ideias em sistemas funcionais, bem estruturados e próximos
 ## Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/hanrrysantos/e-commerce-microservicos">
+  <a href="https://github.com/hanrrysantos/e-commerce-microsservicos">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=e-commerce-microsservicos&theme=tokyonight&hide_border=true" />
   </a>
 
