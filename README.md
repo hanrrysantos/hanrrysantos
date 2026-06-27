@@ -60,6 +60,13 @@ Gosto de transformar ideias em sistemas funcionais, bem estruturados e próximos
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/hanrrysantos/controle-de-gastos">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=controle-de-gastos&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+
 ## Estatísticas do GitHub
 
 <div align="center">
