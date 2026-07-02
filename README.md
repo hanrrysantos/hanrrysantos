@@ -1,91 +1,216 @@
-<div align="center">
-  <h1>Sou Hanrry Santos</h1>
-  <h3>Desenvolvedor Backend | Java | Spring Boot | Microsserviços</h3>
 
-  <a href="https://www.linkedin.com/in/hanrrysantos" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/hanrrysantoss/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hanrry.jsantos@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-</div>
-
-## Sobre mim
-
-Sou desenvolvedor backend focado no ecossistema Java, com interesse em construção de APIs REST, microsserviços, autenticação, mensageria, bancos relacionais e boas práticas de arquitetura.
-
-Atualmente venho desenvolvendo projetos próprios para aprofundar conceitos como Spring Boot, Spring Security, JWT, RabbitMQ, Docker, PostgreSQL, Flyway, CI/CD e deploy em cloud.
-
-Gosto de transformar ideias em sistemas funcionais, bem estruturados e próximos de cenários reais de mercado.
-
-## Tecnologias
+# Olá, eu sou Hanrry Santos
 
 <div align="center">
 
-**Backend**
+### Desenvolvedor Backend Java
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" height="45"/>
+Construindo **APIs escaláveis**, **microsserviços** e **sistemas distribuídos** com Java e Spring.
 
-**Banco de Dados**
+**Java • Spring Boot • Spring Cloud • RabbitMQ • Kafka • Docker • AWS • PostgreSQL**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" height="45"/>
+🟢 **Disponível para oportunidades como Desenvolvedor Backend Java**
 
-**Infraestrutura & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws" height="45"/>
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" height="45"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js" height="45"/>
+[LinkedIn](https://www.linkedin.com/in/hanrrysantos) •
+[E-mail](mailto:hanrry.jsantos@gmail.com)
 
 </div>
 
-## Projetos em destaque
+# 👨‍💻 Sobre mim
 
-<div align="center">
-  <a href="https://github.com/hanrrysantos/e-commerce-microsservicos">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=e-commerce-microsservicos&theme=tokyonight&hide_border=true" />
-  </a>
+Sou graduando em Engenharia de Software pela UEPA e desenvolvedor Backend com foco no ecossistema Java.
 
-</div>
+Tenho experiência no desenvolvimento de APIs REST, microsserviços, mensageria, autenticação com Spring Security/JWT e aplicações preparadas para produção.
 
-<div align="center">
-  <a href="https://github.com/hanrrysantos/Inventory-Manager">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=Inventory-Manager&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+Atualmente aprofundo conhecimentos em:
 
-<div align="center">
-  <a href="https://github.com/hanrrysantos/studytracker">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=studytracker&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+- Spring Cloud
+- Kafka e RabbitMQ
+- Testes automatizados
+- Observabilidade
+- AWS
+- Arquitetura de Software
+- Clean Architecture
+- DDD
 
-<div align="center">
-  <a href="https://github.com/hanrrysantos/controle-de-gastos">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hanrrysantos&repo=controle-de-gastos&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+# 🚀 Destaques
 
+- ✅ Java 21 + Spring Boot
+- ✅ Arquitetura de Microsserviços
+- ✅ RabbitMQ e Kafka
+- ✅ Spring Security + JWT
+- ✅ Docker
+- ✅ PostgreSQL
+- ✅ Spring Batch
+- ✅ JUnit 5 + Mockito
+- ✅ GitHub Actions
+- ✅ AWS
 
-## Estatísticas do GitHub
+# 🏗️ Competências
+
+- APIs RESTful
+- Microsserviços
+- Event Driven Architecture
+- Clean Architecture
+- SOLID
+- Design Patterns
+- Docker
+- CI/CD
+- Mensageria
+- Banco de Dados Relacional
+
+# 🚀 Projetos em Destaque
+
+## 🛒 E-commerce Microsserviços
+
+**Projeto principal do portfólio.**
+
+Simula uma plataforma completa de e-commerce utilizando arquitetura moderna baseada em microsserviços.
+
+### Recursos
+
+- 8 microsserviços independentes
+- API Gateway
+- Autenticação JWT
+- RabbitMQ
+- OpenFeign
+- Docker
+- PostgreSQL
+- GitHub Actions
+
+**Tecnologias**
+
+`Java 21` `Spring Boot` `RabbitMQ` `Docker` `Spring Cloud` `PostgreSQL`
+
+🔗 https://github.com/hanrrysantos/e-commerce-microsservicos
+
+## 📦 Inventory Manager
+
+API REST para gerenciamento de estoque.
+
+### Destaques
+
+- +20 endpoints
+- Spring Batch
+- JWT
+- Flyway
+- PostgreSQL
+- 98% de cobertura de testes
+
+**Tecnologias**
+
+`Java 21` `Spring Boot` `JUnit 5` `Mockito` `JaCoCo`
+
+🔗 https://github.com/hanrrysantos/Inventory-Manager
+
+## 💰 ReconPay
+
+Backend para conciliação financeira inspirado em fintechs.
+
+### Recursos
+
+- Conciliação de transações
+- Detecção de divergências
+- Chargebacks
+- Docker
+- JWT
+- Flyway
+
+🔗 https://github.com/hanrrysantos/reconpay
+
+## 📚 Study Tracker
+
+Aplicação para acompanhamento da evolução acadêmica.
+
+🔗 https://github.com/hanrrysantos/studytracker
+
+## 💸 Controle de Gastos
+
+Sistema para gerenciamento financeiro pessoal.
+
+🔗 https://github.com/hanrrysantos/controle-de-gastos
+
+# 🛠️ Stack Tecnológica
+
+## Backend
+
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data
+- Hibernate
+- Maven
+
+## Mensageria
+
+- RabbitMQ
+- Kafka
+
+## Cloud
+
+- AWS EC2
+- AWS S3
+
+## Banco de Dados
+
+- PostgreSQL
+- MySQL
+
+## Testes
+
+- JUnit 5
+- Mockito
+- JaCoCo
+
+## DevOps
+
+- Docker
+- GitHub Actions
+- Git
+
+# 💼 Experiência
+
+## Desenvolvedor Backend
+
+Projeto Comunitário (2025 - Atual)
+
+- Desenvolvimento de APIs REST
+- Microsserviços
+- Spring Security
+- JWT
+- Arquitetura distribuída
+- Scrum
+
+# 🎓 Certificações
+
+- Bootcamp Santander Java
+- Spring Boot REST APIs
+- Java Completo
+- SQL e Banco de Dados
+
+# 📈 Estatísticas
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanrrysantos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanrrysantos&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hanrrysantos&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-## Contato
+# 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/hanrrysantos
+- E-mail: hanrry.jsantos@gmail.com
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hanrrysantos" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/hanrrysantoss/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hanrry.jsantos@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-</div>
 
-<br/>
+## Obrigado pela visita!
 
-<div align="center">
-  <i>Sinta-se à vontade para explorar meus repositórios. Se algum projeto for útil, considere deixar uma estrela.</i>
+Se algum projeto lhe interessar, fique à vontade para explorar os repositórios e entrar em contato.
+
+⭐ Sempre aberto a novas oportunidades e desafios.
+
 </div>
