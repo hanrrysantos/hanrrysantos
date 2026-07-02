@@ -25,21 +25,38 @@ Como diferencial, uso **Inteligência Artificial no desenvolvimento** (Claude Co
 ### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="Kafka" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="35" height="35" />
+  <!-- Core Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="30" alt="Spring Boot"/>
+  
+  <!-- Cloud, Infra & CI/CD -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux"/>
+
+  <!-- Bancos de Dados, Migrations & Caching -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30" alt="Redis"/>
+
+  <!-- Mensageria & Streaming -->
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="30" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="30" alt="Kafka"/>
+
+  <!-- Testes & Qualidade de Código -->
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="30" alt="JUnit 5"/>
+
+  <!-- Observabilidade & Monitoramento -->
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="30" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="30" alt="Prometheus"/>
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript"/>
+  
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman"/>
 </p>
 
 ---
@@ -48,36 +65,38 @@ Como diferencial, uso **Inteligência Artificial no desenvolvimento** (Claude Co
 
 **E-commerce - Plataforma de Vendas**   🔗 [Repositório](https://github.com/hanrrysantos/e-commerce-microsservicos) 🔗 [Documentação Swagger](https://ecommerce-api-gateway-to0z.onrender.com)
 
-Ecossistema baseado em arquitetura de microsserviços com Java 21 e Spring Boot, comunicação assíncrona via RabbitMQ (Event-Driven), integrações com OpenFeign, conteinerização com Docker e CI/CD com GitHub Actions.
+Ecossistema escalável baseado em microsserviços e mensageria para fluxos de e-commerce distribuídos.
+* **Destaques:** Comunicação assíncrona baseada em eventos (Event-Driven), resiliência de rede com OpenFeign, conteinerização e automação de deploy com esteira de CI/CD.
 
-`Java` · `Spring Boot` · `RabbitMQ` · `Docker` · `GitHub Actions`
+* `Java` · `Spring Boot` · `RabbitMQ` · `Docker` · `GitHub Actions`
 
 **Inventory Manager - Controle de Estoque Inteligente** 🔗 [Repositório](https://github.com/hanrrysantos/inventory-manager) 🔗 [Documentação Swagger](https://inventory.hanrry.top/)
 
-API REST para gestão de fluxos de dados com Spring Batch para sincronização automatizada de inventário, versionamento de banco com Flyway e mais de 40 testes automatizados (98% de cobertura com JaCoCo).
+API REST de alta performance voltada para processamento em lote e sincronização massiva de dados.
+* **Destaques:** Sincronização automatizada de inventário via Spring Batch, evolução controlada de schemas com Flyway e cobertura de testes rigorosa com 98% de assertividade monitorada via JaCoCo.
 
-`Java` · `Spring Batch` · `JUnit 5` · `Mockito` · `Flyway`
+* `Java` · `Spring Batch` · `JUnit 5` · `Mockito` · `Flyway`
 
 **ReconPay — Plataforma de Conciliação Financeira**  🔗 [Repositório](https://github.com/hanrrysantos/reconpay) 
 
-API desenvolvida para simular cenários reais de fintechs e marketplaces, automatizando a comparação de transações internas com registros externos de liquidação para identificar divergências. Projetada inicialmente em arquitetura de monólito modular, implementando soft delete para histórico, segurança robusta com autenticação e autorização por roles via JWT, além de controle de banco de dados via Flyway.
-
-`Java 21` · `Spring Boot 3` · `Spring Security & JWT` · `PostgreSQL` · `Flyway` · `Docker`
+Sistema desenhado para simular cenários complexos de fintechs através da automação de conciliação de transações.
+* **Destaques:** Arquitetura de Monólito Modular com forte isolamento, auditoria e histórico via *soft delete*, segurança corporativa RBAC (autenticação/autorização baseada em Roles via JWT).
+* `Java 21` · `Spring Boot 3` · `Spring Security & JWT` · `PostgreSQL` · `Flyway` · `Docker`
 
 **Rate-Limiting Dinâmico** 🔗 [Repositório](https://github.com/hanrrysantos/rate-limiting)
 
-Implementação de uma solução de segurança e controle de tráfego para proteção de microsserviços e APIs públicas contra abuso. Utiliza o algoritmo de Janela Fixa (Fixed Window) combinado com Redis para validação dinâmica de requisições por API Key com altíssima performance e baixa latência.
-
-`Java` · `Spring Boot` · `Redis` · `PostgreSQL` · `Docker Compose`
+Solução de segurança infraestrutural para proteção e controle de vazão de tráfego em microsserviços.
+* **Destaques:** Implementação do algoritmo *Fixed Window* distribuído em memória com Redis para validação dinâmica de API Keys com baixíssima latência.
+* `Java` · `Spring Boot` · `Redis` · `PostgreSQL` · `Docker Compose`
 
 **StudyTracker — Sistema de Gerenciamento de Estudos** 🔗 [Repositório](https://github.com/hanrrysantos/studytracker) 
 
-Aplicação focada no monitoramento rigoroso e na gestão do progresso acadêmico estruturado de forma hierárquica (Categorias, Cursos, Módulos e Aulas). Possui restrições de integridade em banco de dados para evitar duplicidade de registros de progresso, controle de sessões de estudo, segurança stateless com JWT e infraestrutura conteinerizada.
-
-`Java 21` · `Spring Boot 3` · `PostgreSQL` · `Supabase` · `Docker` · `Render`
+API focada no monitoramento hierárquico estruturado e gestão de progresso acadêmico.
+* **Destaques:** Garantia de consistência transacional e restrições de integridade em banco de dados, autenticação stateless com segurança JWT e infraestrutura pronta para produção na nuvem.
+* `Java 21` · `Spring Boot 3` · `PostgreSQL` · `Supabase` · `Docker` · `Render`
 
 **Controle de Gastos**  🔗 [Repositório](https://github.com/hanrrysantos/controle-de-gastos)
 
-Sistema web Fullstack desenvolvido para facilitar a gestão financeira e o controle orçamentário pessoal. Permite a organização de categorias, o gerenciamento em tempo real de receitas e despesas por meio de um dashboard analítico e segurança integrada por autenticação via tokens JWT.
-
-`Java` · `Spring Boot` · `PostgreSQL` · `JWT Authentication`
+Aplicação web para gestão financeira, orçamento pessoal e consolidação de dados orçamentários.
+* **Destaques:** Dashboard analítico estruturado com agregação de dados financeiros em tempo real e isolamento de rotas via tokens JWT.
+* `Java` · `Spring Boot` · `PostgreSQL` · `JWT Authentication`
