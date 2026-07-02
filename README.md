@@ -1,216 +1,65 @@
-
-# Olá, eu sou Hanrry Santos
-
-<div align="center">
-
-### Desenvolvedor Backend Java
-
-Construindo **APIs escaláveis**, **microsserviços** e **sistemas distribuídos** com Java e Spring.
-
-**Java • Spring Boot • Spring Cloud • RabbitMQ • Kafka • Docker • AWS • PostgreSQL**
-
-🟢 **Disponível para oportunidades como Desenvolvedor Backend Java**
-
-[LinkedIn](https://www.linkedin.com/in/hanrrysantos) •
-[E-mail](mailto:hanrry.jsantos@gmail.com)
-
-</div>
-
-# 👨‍💻 Sobre mim
-
-Sou graduando em Engenharia de Software pela UEPA e desenvolvedor Backend com foco no ecossistema Java.
-
-Tenho experiência no desenvolvimento de APIs REST, microsserviços, mensageria, autenticação com Spring Security/JWT e aplicações preparadas para produção.
-
-Atualmente aprofundo conhecimentos em:
-
-- Spring Cloud
-- Kafka e RabbitMQ
-- Testes automatizados
-- Observabilidade
-- AWS
-- Arquitetura de Software
-- Clean Architecture
-- DDD
-
-# 🚀 Destaques
-
-- ✅ Java 21 + Spring Boot
-- ✅ Arquitetura de Microsserviços
-- ✅ RabbitMQ e Kafka
-- ✅ Spring Security + JWT
-- ✅ Docker
-- ✅ PostgreSQL
-- ✅ Spring Batch
-- ✅ JUnit 5 + Mockito
-- ✅ GitHub Actions
-- ✅ AWS
-
-# 🏗️ Competências
-
-- APIs RESTful
-- Microsserviços
-- Event Driven Architecture
-- Clean Architecture
-- SOLID
-- Design Patterns
-- Docker
-- CI/CD
-- Mensageria
-- Banco de Dados Relacional
-
-# 🚀 Projetos em Destaque
-
-## 🛒 E-commerce Microsserviços
-
-**Projeto principal do portfólio.**
-
-Simula uma plataforma completa de e-commerce utilizando arquitetura moderna baseada em microsserviços.
-
-### Recursos
-
-- 8 microsserviços independentes
-- API Gateway
-- Autenticação JWT
-- RabbitMQ
-- OpenFeign
-- Docker
-- PostgreSQL
-- GitHub Actions
-
-**Tecnologias**
-
-`Java 21` `Spring Boot` `RabbitMQ` `Docker` `Spring Cloud` `PostgreSQL`
-
-🔗 https://github.com/hanrrysantos/e-commerce-microsservicos
-
-## 📦 Inventory Manager
-
-API REST para gerenciamento de estoque.
-
-### Destaques
-
-- +20 endpoints
-- Spring Batch
-- JWT
-- Flyway
-- PostgreSQL
-- 98% de cobertura de testes
-
-**Tecnologias**
-
-`Java 21` `Spring Boot` `JUnit 5` `Mockito` `JaCoCo`
-
-🔗 https://github.com/hanrrysantos/Inventory-Manager
-
-## 💰 ReconPay
-
-Backend para conciliação financeira inspirado em fintechs.
-
-### Recursos
-
-- Conciliação de transações
-- Detecção de divergências
-- Chargebacks
-- Docker
-- JWT
-- Flyway
-
-🔗 https://github.com/hanrrysantos/reconpay
-
-## 📚 Study Tracker
-
-Aplicação para acompanhamento da evolução acadêmica.
-
-🔗 https://github.com/hanrrysantos/studytracker
-
-## 💸 Controle de Gastos
-
-Sistema para gerenciamento financeiro pessoal.
-
-🔗 https://github.com/hanrrysantos/controle-de-gastos
-
-# 🛠️ Stack Tecnológica
-
-## Backend
-
-- Java
-- Spring Boot
-- Spring Security
-- Spring Data
-- Hibernate
-- Maven
-
-## Mensageria
-
-- RabbitMQ
-- Kafka
-
-## Cloud
-
-- AWS EC2
-- AWS S3
-
-## Banco de Dados
-
-- PostgreSQL
-- MySQL
-
-## Testes
-
-- JUnit 5
-- Mockito
-- JaCoCo
-
-## DevOps
-
-- Docker
-- GitHub Actions
-- Git
-
-# 💼 Experiência
-
-## Desenvolvedor Backend
-
-Projeto Comunitário (2025 - Atual)
-
-- Desenvolvimento de APIs REST
-- Microsserviços
-- Spring Security
-- JWT
-- Arquitetura distribuída
-- Scrum
-
-# 🎓 Certificações
-
-- Bootcamp Santander Java
-- Spring Boot REST APIs
-- Java Completo
-- SQL e Banco de Dados
-
-# 📈 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanrrysantos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanrrysantos&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hanrrysantos&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-# 📫 Contato
-
-- LinkedIn: https://linkedin.com/in/hanrrysantos
-- E-mail: hanrry.jsantos@gmail.com
+<h1 align="center">Hanrry Santos 💻</h1>
+
+<h3 align="center">Desenvolvedor Backend · Java & Spring · Sistemas Distribuídos · Microsserviços</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanrrysantos">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hanrry.jsantos@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/hanrrysantos">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+### 👋 Sobre mim
 
-## Obrigado pela visita!
+Desenvolvedor Backend com sólida experiência no ecossistema **Java (8 a 21)** e no framework **Spring** (Boot, Data, Cloud, Batch), graduando em **Engenharia de Software pela UEPA**.
 
-Se algum projeto lhe interessar, fique à vontade para explorar os repositórios e entrar em contato.
+Trabalho com **arquitetura de microsserviços**, **APIs RESTful robustas** e **comunicação assíncrona** usando **RabbitMQ** e **Kafka**, aplicando POO, algoritmos e estrutura de dados no dia a dia. Também atuo com infraestrutura em nuvem (**AWS**), **Docker** e pipelines de **CI/CD**.
 
-⭐ Sempre aberto a novas oportunidades e desafios.
+Como diferencial, uso **Inteligência Artificial no desenvolvimento** (Gemini e Cursor) para refatoração de código, escrita de testes e aceleração de entregas.
 
-</div>
+---
+
+### 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,git,github,githubactions,docker,aws,mysql,postgres,oracle,mongodb,rabbitmq,kafka,grafana,idea" />
+</p>
+
+---
+
+### 🚀 Projetos
+
+**E-commerce - Plataforma de Vendas**
+Ecossistema baseado em arquitetura de microsserviços com Java 21 e Spring Boot, comunicação assíncrona via RabbitMQ (Event-Driven), integrações com OpenFeign, conteinerização com Docker e CI/CD com GitHub Actions.
+`Java` · `Spring Boot` · `RabbitMQ` · `Docker` · `GitHub Actions`
+
+**Inventory Manager - Controle de Estoque Inteligente**
+API REST para gestão de fluxos de dados com Spring Batch para sincronização automatizada de inventário, versionamento de banco com Flyway e mais de 40 testes automatizados (98% de cobertura com JaCoCo).
+`Java` · `Spring Batch` · `JUnit 5` · `Mockito` · `Flyway`
+
+**Projeto Comunitário - Aplicativo para Profissionais de TI**
+APIs RESTful com Spring Security e JWT, definição de arquitetura de microsserviços e uso de IA (Gemini e Cursor) para refatoração e testes automatizados, seguindo metodologias ágeis.
+`Java 21` · `Spring Security` · `JWT` · `Scrum/Kanban`
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hanrrysantos">
+    <img src="https://img.shields.io/badge/-Hanrry%20Santos-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hanrry.jsantos@gmail.com">
+    <img src="https://img.shields.io/badge/-hanrry.jsantos@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/hanrrysantos">
+    <img src="https://img.shields.io/badge/-hanrrysantos-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
