@@ -53,7 +53,7 @@ Uso **Inteligência Artificial no desenvolvimento** (Claude Code e Codex) para r
 
 ---
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
 
 **E-commerce - Plataforma de Vendas**   🔗 [Repositório](https://github.com/hanrrysantos/e-commerce-microsservicos) 🔗 [Documentação Swagger](https://ecommerce-api-gateway-to0z.onrender.com)
 
