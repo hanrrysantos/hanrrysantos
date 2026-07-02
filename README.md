@@ -8,9 +8,9 @@
 
 Desenvolvedor Backend com sólida experiência no ecossistema **Java** e no framework **Spring Boot**, graduando em **Engenharia de Software pela UEPA**.
 
-Desenvolvo sistemas com **arquitetura de microsserviços**, **APIs RESTful robustas** e **comunicação assíncrona** usando **RabbitMQ** e **Kafka**, aplicando POO, algoritmos e estrutura de dados no dia a dia. Também atuo com infraestrutura em nuvem (**AWS**), **Docker** e pipelines de **CI/CD**.
+Desenvolvo sistemas com **arquitetura de microsserviços**, **APIs RESTful robustas** e **comunicação assíncrona** usando **RabbitMQ** e **Kafka**, aplicando POO, algoritmos e estrutura de dados no dia a dia. Também atuo com infraestrutura em nuvem, **AWS**, **Docker** e pipelines de **CI/CD**.
 
-Como diferencial, uso **Inteligência Artificial no desenvolvimento** (Claude Code e Codex) para refatoração de código, escrita de testes e aceleração de entregas.
+Uso **Inteligência Artificial no desenvolvimento** (Claude Code e Codex) para refatoração de código, escrita de testes e aceleração de entregas.
 
 ---
 
