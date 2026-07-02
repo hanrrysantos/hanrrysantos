@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Backend | Java • Spring Boot • Microsserviços • API REST | Docker • CI/CD</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanrrysantos"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <a href="mailto:hanrry.jsantos@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>  <a href="https://www.instagram.com/hanrrysantoss"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/hanrrysantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <a href="mailto:hanrry.jsantos@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>  <a href="https://www.instagram.com/hanrrysantoss"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 Desenvolvedor Backend com sólida experiência no ecossistema **Java** e no framework **Spring Boot**, graduando em **Engenharia de Software pela UEPA**.
@@ -69,7 +69,7 @@ API REST de alta performance voltada para processamento em lote e sincronizaçã
 
 * `Java` · `Spring Batch` · `JUnit 5` · `Mockito` · `Flyway`
 
-**ReconPay — Plataforma de Conciliação Financeira**  🔗 [Repositório](https://github.com/hanrrysantos/reconpay) 
+**ReconPay - Plataforma de Conciliação Financeira**  🔗 [Repositório](https://github.com/hanrrysantos/reconpay) 
 
 Sistema desenhado para simular cenários complexos de fintechs através da automação de conciliação de transações.
 * **Destaques:** Arquitetura de Monólito Modular com forte isolamento, auditoria e histórico via *soft delete*, segurança corporativa RBAC (autenticação/autorização baseada em Roles via JWT).
@@ -81,7 +81,7 @@ Solução de segurança infraestrutural para proteção e controle de vazão de 
 * **Destaques:** Implementação do algoritmo *Fixed Window* distribuído em memória com Redis para validação dinâmica de API Keys com baixíssima latência.
 * `Java` · `Spring Boot` · `Redis` · `PostgreSQL` · `Docker Compose`
 
-**StudyTracker — Sistema de Gerenciamento de Estudos** 🔗 [Repositório](https://github.com/hanrrysantos/studytracker) 
+**StudyTracker - Sistema de Gerenciamento de Estudos** 🔗 [Repositório](https://github.com/hanrrysantos/studytracker) 
 
 API focada no monitoramento hierárquico estruturado e gestão de progresso acadêmico.
 * **Destaques:** Garantia de consistência transacional e restrições de integridade em banco de dados, autenticação stateless com segurança JWT e infraestrutura pronta para produção na nuvem.
