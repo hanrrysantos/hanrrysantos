@@ -3,15 +3,7 @@
 <h3 align="center">Desenvolvedor Backend | Java • Spring Boot • Microsserviços • API REST | Docker • CI/CD</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanrrysantos">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hanrry.jsantos@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/hanrrysantos">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/hanrrysantos"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <a href="mailto:hanrry.jsantos@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>  <a href="https://www.instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 Desenvolvedor Backend com sólida experiência no ecossistema **Java** e no framework **Spring Boot**, graduando em **Engenharia de Software pela UEPA**.
