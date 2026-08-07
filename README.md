@@ -55,14 +55,14 @@ Uso **Inteligência Artificial no desenvolvimento** (Claude Code e Codex) para r
 
 ### 🚀 Projetos em destaque
 
-**E-commerce - Plataforma de Vendas**   🔗 [Repositório](https://github.com/hanrrysantos/e-commerce-microsservicos) 🔗 [Documentação Swagger](https://ecommerce-api-gateway-to0z.onrender.com)
+**E-commerce - Plataforma de Vendas**   🔗 [Repositório](https://github.com/hanrrysantos/e-commerce-microsservicos) 🔗 [Documentação Swagger](https://ecommerce-api-gateway-to0z.onrender.com/swagger-ui.html)
 
 Ecossistema escalável baseado em microsserviços e mensageria para fluxos de e-commerce distribuídos.
 * **Destaques:** Comunicação assíncrona baseada em eventos (Event-Driven), resiliência de rede com OpenFeign, conteinerização e automação de deploy com esteira de CI/CD.
 
 * `Java` · `Spring Boot` · `RabbitMQ` · `Docker` · `GitHub Actions`
 
-**Inventory Manager - Controle de Estoque Inteligente** 🔗 [Repositório](https://github.com/hanrrysantos/inventory-manager) 🔗 [Documentação Swagger](https://inventory.hanrry.top/)
+**Inventory Manager - Controle de Estoque Inteligente** 🔗 [Repositório](https://github.com/hanrrysantos/inventory-manager) 🔗 [Documentação Swagger](https://inventory.hanrry.top/swagger-ui/index.html)
 
 API REST de alta performance voltada para processamento em lote e sincronização massiva de dados.
 * **Destaques:** Sincronização automatizada de inventário via Spring Batch, evolução controlada de schemas com Flyway e cobertura de testes rigorosa com 98% de assertividade monitorada via JaCoCo.
