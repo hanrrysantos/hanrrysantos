@@ -1,16 +1,22 @@
 <h1 align="center">Hanrry Santos</h1>
 
-<h3 align="center">Desenvolvedor Backend | Java • Spring Boot • Microsserviços • API REST | Docker • CI/CD</h3>
+<h3 align="center">Desenvolvedor Backend Java | Spring Boot • Microsserviços • Mensageria</h3>
+
+<p align="center"><i>Aberto a oportunidades como Desenvolvedor Backend Java.</i></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanrrysantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <a href="mailto:hanrry.jsantos@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>  <a href="https://www.instagram.com/hanrrysantoss"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/hanrrysantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:hanrry.jsantos@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://www.instagram.com/hanrrysantoss"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-Desenvolvedor Backend com sólida experiência no ecossistema **Java** e no framework **Spring Boot**, graduando em **Engenharia de Software pela UEPA**.
+Estudante de Engenharia de Software na UEPA, com foco em sistemas backend que precisam manter consistência sob carga, concorrência e falha parcial.
 
-Desenvolvo sistemas com **arquitetura de microsserviços**, **APIs RESTful robustas** e **comunicação assíncrona** usando **RabbitMQ** e **Kafka**, aplicando POO, algoritmos e estrutura de dados no dia a dia. Também atuo com infraestrutura em nuvem, **AWS**, **Docker** e pipelines de **CI/CD**.
+Projetos pessoais focados em problemas reais de produção: consistência transacional em conciliação financeira, controle de vazão distribuído com Redis, e sincronização em lote de milhões de registros com Spring Batch.
 
-Uso **Inteligência Artificial no desenvolvimento** (Claude Code e Codex) para refatoração de código, escrita de testes e aceleração de entregas.
+Aplico arquitetura de microsserviços, comunicação assíncrona orientada a eventos (Kafka/RabbitMQ) e design de APIs REST resilientes com OpenFeign e circuit breakers.
+
+Testes automatizados fazem parte do desenvolvimento, com cobertura medida por JaCoCo. Experiência prática levando esses sistemas a produção com AWS, Docker e pipelines de CI/CD.
 
 ---
 
@@ -20,7 +26,7 @@ Uso **Inteligência Artificial no desenvolvimento** (Claude Code e Codex) para r
   <!-- Core Backend -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="30" alt="Spring Boot"/>
-  
+
   <!-- Cloud, Infra & CI/CD -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker"/>
@@ -45,7 +51,7 @@ Uso **Inteligência Artificial no desenvolvimento** (Claude Code e Codex) para r
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript"/>
-  
+
   <!-- Ferramentas -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman"/>
@@ -55,40 +61,38 @@ Uso **Inteligência Artificial no desenvolvimento** (Claude Code e Codex) para r
 
 ### 🚀 Projetos em destaque
 
-**E-commerce - Plataforma de Vendas**   🔗 [Repositório](https://github.com/hanrrysantos/e-commerce-microsservicos) 🔗 [Documentação Swagger](https://ecommerce-api-gateway-to0z.onrender.com/swagger-ui.html)
+**E-commerce - Plataforma de Vendas** 🔗 [Repositório](https://github.com/hanrrysantos/e-commerce-microsservicos) · 🔗 [Swagger](https://ecommerce-api-gateway-to0z.onrender.com/swagger-ui.html)
 
 Ecossistema escalável baseado em microsserviços e mensageria para fluxos de e-commerce distribuídos.
-* **Destaques:** Comunicação assíncrona baseada em eventos (Event-Driven), resiliência de rede com OpenFeign, conteinerização e automação de deploy com esteira de CI/CD.
+- **Destaques:** comunicação assíncrona orientada a eventos, resiliência de rede com OpenFeign, conteinerização e esteira de CI/CD completa.
+- `Java` · `Spring Boot` · `RabbitMQ` · `Docker` · `GitHub Actions`
 
-* `Java` · `Spring Boot` · `RabbitMQ` · `Docker` · `GitHub Actions`
-
-**Inventory Manager - Controle de Estoque Inteligente** 🔗 [Repositório](https://github.com/hanrrysantos/inventory-manager) 🔗 [Documentação Swagger](https://inventory.hanrry.top/swagger-ui/index.html)
+**Inventory Manager - Controle de Estoque Inteligente** 🔗 [Repositório](https://github.com/hanrrysantos/inventory-manager) · 🔗 [Swagger](https://inventory.hanrry.top/swagger-ui/index.html)
 
 API REST de alta performance voltada para processamento em lote e sincronização massiva de dados.
-* **Destaques:** Sincronização automatizada de inventário via Spring Batch, evolução controlada de schemas com Flyway e cobertura de testes rigorosa com 98% de assertividade monitorada via JaCoCo.
+- **Destaques:** sincronização automatizada via Spring Batch, evolução controlada de schema com Flyway, 98% de cobertura de testes monitorada via JaCoCo.
+- `Java` · `Spring Batch` · `JUnit 5` · `Mockito` · `Flyway`
 
-* `Java` · `Spring Batch` · `JUnit 5` · `Mockito` · `Flyway`
+**ReconPay - Plataforma de Conciliação Financeira** 🔗 [Repositório](https://github.com/hanrrysantos/reconpay)
 
-**ReconPay - Plataforma de Conciliação Financeira**  🔗 [Repositório](https://github.com/hanrrysantos/reconpay) 
-
-Sistema desenhado para simular cenários complexos de fintechs através da automação de conciliação de transações.
-* **Destaques:** Arquitetura de Monólito Modular com forte isolamento, auditoria e histórico via *soft delete*, segurança corporativa RBAC (autenticação/autorização baseada em Roles via JWT).
-* `Java 21` · `Spring Boot 3` · `Spring Security & JWT` · `PostgreSQL` · `Flyway` · `Docker`
+Sistema que simula cenários complexos de fintechs através da automação de conciliação de transações.
+- **Destaques:** arquitetura de monólito modular com forte isolamento, auditoria e histórico via soft delete, segurança RBAC com JWT.
+- `Java 21` · `Spring Boot 3` · `Spring Security & JWT` · `PostgreSQL` · `Flyway` · `Docker`
 
 **Rate-Limiting Dinâmico** 🔗 [Repositório](https://github.com/hanrrysantos/rate-limiting)
 
 Solução de segurança infraestrutural para proteção e controle de vazão de tráfego em microsserviços.
-* **Destaques:** Implementação do algoritmo *Fixed Window* distribuído em memória com Redis para validação dinâmica de API Keys com baixíssima latência.
-* `Java` · `Spring Boot` · `Redis` · `PostgreSQL` · `Docker Compose`
+- **Destaques:** algoritmo Fixed Window distribuído em memória com Redis, validação dinâmica de API Keys com baixíssima latência.
+- `Java` · `Spring Boot` · `Redis` · `PostgreSQL` · `Docker Compose`
 
-**StudyTracker - Sistema de Gerenciamento de Estudos** 🔗 [Repositório](https://github.com/hanrrysantos/studytracker) 
+**StudyTracker - Sistema de Gerenciamento de Estudos** 🔗 [Repositório](https://github.com/hanrrysantos/studytracker)
 
 API focada no monitoramento hierárquico estruturado e gestão de progresso acadêmico.
-* **Destaques:** Garantia de consistência transacional e restrições de integridade em banco de dados, autenticação stateless com segurança JWT e infraestrutura pronta para produção na nuvem.
-* `Java 21` · `Spring Boot 3` · `PostgreSQL` · `Supabase` · `Docker` · `Render`
+- **Destaques:** consistência transacional e restrições de integridade no banco, autenticação stateless com JWT, infraestrutura pronta para produção na nuvem.
+- `Java 21` · `Spring Boot 3` · `PostgreSQL` · `Supabase` · `Docker` · `Render`
 
-**Controle de Gastos**  🔗 [Repositório](https://github.com/hanrrysantos/controle-de-gastos)
+**Controle de Gastos** 🔗 [Repositório](https://github.com/hanrrysantos/controle-de-gastos)
 
 Aplicação web para gestão financeira, orçamento pessoal e consolidação de dados orçamentários.
-* **Destaques:** Dashboard analítico estruturado com agregação de dados financeiros em tempo real e isolamento de rotas via tokens JWT.
-* `Java` · `Spring Boot` · `PostgreSQL` · `JWT Authentication`
+- **Destaques:** dashboard analítico com agregação de dados financeiros em tempo real, isolamento de rotas via tokens JWT.
+- `Java` · `Spring Boot` · `PostgreSQL` · `JWT Authentication`
