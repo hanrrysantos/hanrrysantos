@@ -20,7 +20,7 @@ Testes automatizados fazem parte do desenvolvimento, com cobertura medida por Ja
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <p align="left">
   <!-- Core Backend -->
@@ -59,7 +59,7 @@ Testes automatizados fazem parte do desenvolvimento, com cobertura medida por Ja
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 **E-commerce - Plataforma de Vendas** 🔗 [Repositório](https://github.com/hanrrysantos/e-commerce-microsservicos) · 🔗 [Swagger](https://ecommerce-api-gateway-to0z.onrender.com/swagger-ui.html)
 
