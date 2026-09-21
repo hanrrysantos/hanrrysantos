@@ -18,7 +18,6 @@ Aplico arquitetura de microsserviços, comunicação assíncrona orientada a eve
 
 Testes automatizados fazem parte do desenvolvimento, com cobertura medida por JaCoCo. Experiência prática levando esses sistemas a produção com AWS, Docker e pipelines de CI/CD.
 
----
 ## Tecnologias
 
 **Linguagens:** Java \
@@ -35,8 +34,6 @@ Testes automatizados fazem parte do desenvolvimento, com cobertura medida por Ja
 **Boas Práticas:** POO, SOLID, Clean Architecture, Design Patterns \
 **Observabilidade:** Spring Actuator, Prometheus, Grafana \
 **Extras:** Familiaridade com ferramentas de IA para desenvolvimento (Copilot, Claude, ChatGPT) 
-
----
 
 ## Projetos em destaque
 
@@ -75,11 +72,3 @@ API focada no monitoramento hierárquico estruturado e gestão de progresso acad
 Aplicação web para gestão financeira, orçamento pessoal e consolidação de dados orçamentários.
 - **Destaques:** dashboard analítico com agregação de dados financeiros em tempo real, isolamento de rotas via tokens JWT.
 - `Java` · `Spring Boot` · `PostgreSQL` · `JWT Authentication`
-
-## Atualmente estudando
-
-- Aprofundamento em arquitetura de microsservicos
-- Padroes de resiliencia em sistemas distribuidos
-- Observabilidade aplicada a ambientes backend
-- Boas praticas de seguranca em APIs
-- Performance e escalabilidade com Java e Spring
