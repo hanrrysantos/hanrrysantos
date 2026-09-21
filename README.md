@@ -1,14 +1,14 @@
 <h1 align="center">Hanrry Santos</h1>
 
-<h3 align="center">Desenvolvedor Backend Java | Spring Boot • Microsserviços • Mensageria</h3>
+<h3 align="center">Desenvolvedor Backend | Java • Spring Boot • PostgreSQL • Microsserviços • API REST | Docker • CI/CD • AWS</h3>
 
-<p align="center"><i>Aberto a oportunidades como Desenvolvedor Backend Java.</i></p>
+## Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hanrrysantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:hanrry.jsantos@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <a href="https://www.instagram.com/hanrrysantoss"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+- LinkedIn: [linkedin.com/in/hanrrysantos](https://www.linkedin.com/in/hanrrysantos)
+- Email: [hanrry.jsantos@gmail.com](mailto:hanrry.jsantos@gmail.com)
+- Instagram: [instagram.com/hanrrysantoss](https://instagram.com/hanrrysantoss)
+
+## Sobre Mim
 
 Estudante de Engenharia de Software na UEPA, com foco em sistemas backend que precisam manter consistência sob carga, concorrência e falha parcial.
 
@@ -19,47 +19,26 @@ Aplico arquitetura de microsserviços, comunicação assíncrona orientada a eve
 Testes automatizados fazem parte do desenvolvimento, com cobertura medida por JaCoCo. Experiência prática levando esses sistemas a produção com AWS, Docker e pipelines de CI/CD.
 
 ---
+## Tecnologias
 
-### Tecnologias
-
-<p align="left">
-  <!-- Core Backend -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="30" alt="Spring Boot"/>
-
-  <!-- Cloud, Infra & CI/CD -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux"/>
-
-  <!-- Bancos de Dados, Migrations & Caching -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30" alt="Redis"/>
-
-  <!-- Mensageria & Streaming -->
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="30" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="30" alt="Kafka"/>
-
-  <!-- Testes & Qualidade de Código -->
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="30" alt="JUnit 5"/>
-
-  <!-- Observabilidade & Monitoramento -->
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="30" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="30" alt="Prometheus"/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript"/>
-
-  <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman"/>
-</p>
+**Linguagens:** Java \
+**Back-end:** Spring Boot, Spring Data JPA, Spring Security, Hibernate, Node.js \
+**Front-end:** React, Next.js \
+**Cloud:** AWS \
+**Banco de Dados:** SQL, PostgreSQL, MongoDB, Redis, Flyway \
+**APIs:** API REST, OpenAPI/Swagger, JSON, OAuth, JWT \
+**Mensageria:** RabbitMQ, Kafka \
+**Versionamento e Ferramentas:** Git, GitHub, Maven, Docker, Linux, GitHub Actions (CI/CD) \
+**Metodologias Ágeis:** Scrum, Kanban \
+**Testes:** JUnit5, Mockito, MockMvc, JaCoCo, k6 \
+**Qualidade de Código:** SonarQube \
+**Boas Práticas:** POO, SOLID, Clean Architecture, Design Patterns \
+**Observabilidade:** Spring Actuator, Prometheus, Grafana \
+**Extras:** Familiaridade com ferramentas de IA para desenvolvimento (Copilot, Claude, ChatGPT) 
 
 ---
 
-### Projetos em destaque
+## Projetos em destaque
 
 **E-commerce - Plataforma de Vendas** 🔗 [Repositório](https://github.com/hanrrysantos/e-commerce-microsservicos) · 🔗 [Swagger](https://ecommerce-api-gateway-to0z.onrender.com/swagger-ui.html)
 
@@ -96,3 +75,11 @@ API focada no monitoramento hierárquico estruturado e gestão de progresso acad
 Aplicação web para gestão financeira, orçamento pessoal e consolidação de dados orçamentários.
 - **Destaques:** dashboard analítico com agregação de dados financeiros em tempo real, isolamento de rotas via tokens JWT.
 - `Java` · `Spring Boot` · `PostgreSQL` · `JWT Authentication`
+
+## Atualmente estudando
+
+- Aprofundamento em arquitetura de microsservicos
+- Padroes de resiliencia em sistemas distribuidos
+- Observabilidade aplicada a ambientes backend
+- Boas praticas de seguranca em APIs
+- Performance e escalabilidade com Java e Spring
