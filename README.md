@@ -37,17 +37,17 @@ Testes automatizados fazem parte do desenvolvimento, com cobertura medida por Ja
 
 ## Projetos em destaque
 
+**Inventory Manager - Controle de Estoque Inteligente** 🔗 [Frontend](https://controle-de-estoque.hanrry.top) · 🔗 [Repositório](https://github.com/hanrrysantos/inventory-manager) · 🔗 [Swagger](https://api-controle-de-estoque.hanrry.top/swagger-ui/index.html)
+
+API REST de alta performance voltada para processamento em lote e sincronização massiva de dados.
+- **Destaques:** sincronização automatizada via Spring Batch, evolução controlada de schema com Flyway, 98% de cobertura de testes monitorada via JaCoCo.
+- `Java` · `Spring Batch` · `JUnit 5` · `Mockito` · `Flyway`
+
 **E-commerce - Plataforma de Vendas** 🔗 [Repositório](https://github.com/hanrrysantos/e-commerce-microsservicos) · 🔗 [Swagger](https://ecommerce-api-gateway-to0z.onrender.com/swagger-ui.html)
 
 Ecossistema escalável baseado em microsserviços e mensageria para fluxos de e-commerce distribuídos.
 - **Destaques:** comunicação assíncrona orientada a eventos, resiliência de rede com OpenFeign, conteinerização e esteira de CI/CD completa.
 - `Java` · `Spring Boot` · `RabbitMQ` · `Docker` · `GitHub Actions`
-
-**Inventory Manager - Controle de Estoque Inteligente** 🔗 [Repositório](https://github.com/hanrrysantos/inventory-manager) · 🔗 [Swagger](https://inventory.hanrry.top/swagger-ui/index.html)
-
-API REST de alta performance voltada para processamento em lote e sincronização massiva de dados.
-- **Destaques:** sincronização automatizada via Spring Batch, evolução controlada de schema com Flyway, 98% de cobertura de testes monitorada via JaCoCo.
-- `Java` · `Spring Batch` · `JUnit 5` · `Mockito` · `Flyway`
 
 **ReconPay - Plataforma de Conciliação Financeira** 🔗 [Repositório](https://github.com/hanrrysantos/reconpay)
 
