@@ -38,6 +38,8 @@ Testes automatizados fazem parte do desenvolvimento, com cobertura medida por Ja
 
 ## Projetos em destaque
 
+> ℹ️ As demos e Swagger estão hospedados em plano gratuito (Render) e podem hibernar. O primeiro acesso pode levar ~30–60s (cold start); recarregue a página se necessário.
+
 **Inventory Manager - Controle de Estoque Inteligente** 🔗 [Frontend](https://controle-de-estoque.hanrry.top) · 🔗 [Repositório](https://github.com/hanrrysantos/inventory-manager) · 🔗 [Swagger](https://api-controle-de-estoque.hanrry.top/swagger-ui/index.html)
 
 API REST de alta performance voltada para processamento em lote e sincronização massiva de dados.
@@ -50,7 +52,7 @@ Ecossistema escalável baseado em microsserviços e mensageria para fluxos de e-
 - **Destaques:** comunicação assíncrona orientada a eventos, resiliência de rede com OpenFeign, conteinerização e esteira de CI/CD completa.
 - `Java` · `Spring Boot` · `RabbitMQ` · `Docker` · `GitHub Actions`
 
-**ReconPay - Plataforma de Conciliação Financeira** 🔗 [Repositório](https://github.com/hanrrysantos/reconpay)
+**ReconPay - Plataforma de Conciliação Financeira** 🔗 [Repositório](https://github.com/hanrrysantos/reconpay) · 🔗 [Swagger](https://reconpay.hanrry.top/swagger-ui/index.html)
 
 Sistema que simula cenários complexos de fintechs através da automação de conciliação de transações.
 - **Destaques:** arquitetura de monólito modular com forte isolamento, auditoria e histórico via soft delete, segurança RBAC com JWT.
