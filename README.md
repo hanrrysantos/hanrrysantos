@@ -11,7 +11,7 @@
 
 Estudante de Engenharia de Software na UEPA (conclusão prevista para 2028), buscando minha primeira oportunidade como desenvolvedor backend (estágio ou júnior).
 
-- **FullDev**: atuei como desenvolvedor backend Java voluntário no **CodaComigo**, um app de relacionamento para pessoas da área de tecnologia. Entreguei mais de 10 endpoints REST, com Spring Security + JWT, PostgreSQL e Flyway.
+- **FullDev**: atuei como desenvolvedor backend Java voluntário no CodaComigo, um app de relacionamento para pessoas da área de tecnologia. Entreguei mais de 10 endpoints REST, com Spring Security + JWT, PostgreSQL e Flyway.
 - **Deefy**: liderei uma equipe de 4 devs backend em um projeto acadêmico da UEPA, uma plataforma de streaming musical. Desenvolvi as APIs de autenticação e playlists e documentei os contratos com Swagger para integração com o frontend. \
   🔗 Repositório: [github.com/eng-software-t2024/deefy](https://github.com/eng-software-t2024/deefy)
 - **Google Student Ambassador 2026**: programa do Google para universitários, focado em IA generativa e Gemini.
