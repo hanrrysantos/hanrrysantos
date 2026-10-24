@@ -33,7 +33,7 @@ Estudante de Engenharia de Software na UEPA (conclusão prevista para 2028), bus
 
 ## Projetos em destaque
 
-> ℹ️ As APIs do Inventory Manager e do E-commerce estão no plano gratuito do Render e podem hibernar. O primeiro acesso pode levar ~30–60s (cold start); recarregue a página se necessário.
+ℹ️ As APIs do Inventory Manager e do E-commerce estão no plano gratuito do Render e podem hibernar. O primeiro acesso pode levar ~30–60s (cold start); recarregue a página se necessário.
 
 ### ReconPay - Plataforma de Conciliação Financeira 🔗 [Demo](https://reconpay.vercel.app) · 🔗 [Repositório](https://github.com/hanrrysantos/reconpay) · 🔗 [Swagger](https://reconpay.hanrry.top/swagger-ui.html)
 
