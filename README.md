@@ -52,7 +52,7 @@ Cruza as vendas registradas pela empresa com os arquivos de liquidação do adqu
   - CI/CD no GitHub Actions com scan OWASP e cobertura mínima de 85%
 - **Stack:** `Java 21` · `Spring Boot 3` · `Next.js` · `PostgreSQL` · `Flyway` · `Testcontainers` · `Docker` · `AWS`
 
-### CDG - Controle de Gastos com Telegram e IA 🔗 [Repositório](https://github.com/hanrrysantos/controle-de-gastos)
+### Mão Fechada - Controle de Gastos com Telegram e IA 🔗 [Demo](https://mao-fechada.vercel.app/entrar) · 🔗 [Repositório](https://github.com/hanrrysantos/controle-de-gastos) · 🔗 [Bot](https://t.me/MaoFechadaBot) 
 
 <p align="center">
   <img src="assets/cdg-telegram.png" alt="Conversa com o bot do CDG no Telegram registrando gastos" height="560">
